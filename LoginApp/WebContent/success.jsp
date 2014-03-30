@@ -16,5 +16,7 @@ User user = (User)request.getAttribute("user");
 
 Hello, <%=user.getUserName() %>!
 
+This is a test welcome page, don't bother it.
+
 </body>
 </html>
