@@ -20,5 +20,7 @@ This is a test welcome page, don't bother it.
 
 Here is another line. Nice, ain't it?
 
+Keep working on the master branch...
+
 </body>
 </html>
