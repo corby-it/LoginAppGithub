@@ -13,6 +13,7 @@ public class LoginService {
 		users.put("aba", "Davide Abati");
 		users.put("alle", "Alessia De Vincentis");
 		users.put("fede", "Federica Mazza");
+		users.put("palaz", "Andrea Palazzi");
 	}
 	
 	public boolean authenticate(String userId, String password){
